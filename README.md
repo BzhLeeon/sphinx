@@ -1,1 +1,3 @@
 # sphinx
+	
+.. include:: ../README.rst
